@@ -1,0 +1,9 @@
+- name: TESTING
+  hosts: localhost
+  gather_facts: false
+
+  tasks:
+    - name: Create file on remote host
+      my_module:
+        path: "/tmp/test.txt"
+        content: "All is good"
