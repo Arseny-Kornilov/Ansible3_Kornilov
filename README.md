@@ -19,4 +19,5 @@
 <img width="657" height="52" alt="image" src="https://github.com/user-attachments/assets/29be372f-6a07-49fe-82b9-9d63f93d3178" />
 
 ## Шаг 16. Запустите playbook, убедитесь, что он работает.
-<img width="817" height="142" alt="image" src="https://github.com/user-attachments/assets/b80c464c-eca4-4812-8843-97a179b2e61f" />
+<img width="821" height="142" alt="image" src="https://github.com/user-attachments/assets/17b2236f-59b4-4608-a989-0e75a1b78135" />
+
